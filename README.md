@@ -21,3 +21,11 @@ this is patch node of [it](https://assetstore.unity.com/packages/tools/modeling/
 1.0.4.2
 
 -fixed #1
+
+-----
+1.0.5
+Add input line example.
+
+![example](inputexample.gif)
+
+Adding methods to make it easier to edit in scripts(check exmaple5)
