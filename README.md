@@ -29,3 +29,7 @@ Add input line example.
 ![example](inputexample.gif)
 
 Adding methods to make it easier to edit in scripts(check exmaple5)
+
+-----
+1.0.5.1
+Enable to change path of asset.
