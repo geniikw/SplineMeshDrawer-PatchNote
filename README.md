@@ -33,3 +33,11 @@ Adding methods to make it easier to edit in scripts(check exmaple5)
 -----
 1.0.5.1
 Enable to change path of asset.
+
+-----
+1.1
+rename from SplineMeshDrawer to DataRenderer2D.
+
+add Polygon, SinWave.
+
+Optimazation.(less stack/heap memory, less GC), thought there is many gc. have to control vertex count.
