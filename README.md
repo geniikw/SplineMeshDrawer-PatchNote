@@ -41,3 +41,12 @@ rename from SplineMeshDrawer to DataRenderer2D.
 add Polygon, SinWave.
 
 Optimazation.(less stack/heap memory, less GC), thought there is many gc. have to control vertex count.
+
+-----
+1.2
+remove button size setting.
+
+add UIHole.
+
+![hole](hole.gif)
+
