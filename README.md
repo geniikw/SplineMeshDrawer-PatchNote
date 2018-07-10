@@ -1,52 +1,12 @@
-# SplineMeshDrawer-PatchNote
+# DataRenderer2D 
 
-this is patch node of [it](https://assetstore.unity.com/packages/tools/modeling/spline-mesh-drawer-102377)
+[PatchNote](PatchNode.md)
 
------
+DataRenderer2D is tool allow you can create mesh base data. you can create line, polygon and sinwave. Also you can  animate these mesh by modify data using Unity3d animator.
 
-1.0.4 
+## Bezier line
+this is main asset of this package. 
 
--add joint Option 
-
-![example](JointOption.gif)
-
--remove normalVector -> all normal vector is Vector(0,0,-1)
-
--add property drawer of line, lineOption.
-
--unity version change 2017.1 to 5.6
-
-----
-
-1.0.4.2
-
--fixed #1
-
------
-1.0.5
-Add input line example.
-
-![example](inputexample.gif)
-
-Adding methods to make it easier to edit in scripts(check exmaple5)
-
------
-1.0.5.1
-Enable to change path of asset.
-
------
-1.1
-rename from SplineMeshDrawer to DataRenderer2D.
-
-add Polygon, SinWave.
-
-Optimazation.(less stack/heap memory, less GC), thought there is many gc. have to control vertex count.
-
------
-1.2
-remove button size setting.
-
-add UIHole.
-
-![hole](hole.gif)
+- Each node has control point and width.
+- set line drawing rate using start rate and end rate.
 
