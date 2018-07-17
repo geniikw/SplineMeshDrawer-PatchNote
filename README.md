@@ -5,7 +5,11 @@
 [AssetStore(commercial)](https://assetstore.unity.com/packages/tools/modeling/data-renderer-2d-102377)
 
 [FreeVersion](https://github.com/geniikw/drawLine)
-(old version, doesn't optimazed, less utility but function is almost same) 
+- purpose is same. draw bezier which can animate by unity3d animator. but the two source codes are completely different.
+- old version.
+- not optimazed(used linq, more use stack,heap memory) Nevertheless, changing the mesh in real time causes a lot of gc.
+- less utility, less option, less featured. 
+- not managed.
 
 DataRenderer2D is tool allow you can create mesh base data. you can create line, polygon and sinwave. Also you can  animate these mesh by modify data using Unity3d animator.
 
