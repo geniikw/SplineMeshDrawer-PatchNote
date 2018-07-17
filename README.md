@@ -2,7 +2,7 @@
 
 [PatchNote](PatchNode.md)
 
-[AssetStore(commercial)](https://assetstore.unity.com/packages/tools/modeling/data-renderer-2d-102377)
+[AssetStore(5$)](https://assetstore.unity.com/packages/tools/modeling/data-renderer-2d-102377)
 
 ## free version
 
@@ -12,6 +12,7 @@
 - not optimazed(used linq, more use stack,heap memory) Nevertheless, changing the mesh in real time causes a lot of gc.
 - less utility, less option, less featured. 
 - not managed.
+- can't access by assetstore.
 
 ## Bezier line
 - Each node has control point and width.
