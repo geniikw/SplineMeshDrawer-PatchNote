@@ -2,17 +2,7 @@
 
 [PatchNote](PatchNode.md)
 
-[AssetStore(5$)](https://assetstore.unity.com/packages/tools/modeling/data-renderer-2d-102377)
-
-## free version
-
-[FreeVersion](https://github.com/geniikw/drawLine)
-- purpose is same. draw bezier which can animate by unity3d animator. but the two source codes are completely different.
-- old version.
-- not optimazed(used linq, more use stack,heap memory) Nevertheless, changing the mesh in real time causes a lot of gc.
-- less utility, less option, less featured. 
-- not managed.
-- can't access by assetstore.
+[AssetStore(free)](https://assetstore.unity.com/packages/tools/modeling/data-renderer-2d-102377)
 
 ## Bezier line
 - Each node has control point and width.
