@@ -1,4 +1,4 @@
-# SplineMeshDrawer-PatchNote
+# DataRenderer2D-PatchNote
 
 this is patch node of [it](https://assetstore.unity.com/packages/tools/modeling/spline-mesh-drawer-102377)
 
