@@ -55,3 +55,23 @@ add UIHole.
 
 now, vertex contains tangent info in worldline.
 add Button for handle to Copy and paste issue.
+
+------
+1.3 2024-07-24 (almost 6 years later..)
+
+1. fix bug
+
+before
+
+![old1](https://github.com/user-attachments/assets/e8ad43b3-9888-47e4-b052-ca34aa5156eb)
+
+after
+
+![new1](https://github.com/user-attachments/assets/9e5637c6-15b4-4afc-b2b8-fedd4fbfe7f8)
+
+2. add angle
+
+![add angle](https://github.com/user-attachments/assets/ef2396b0-893c-487e-a7ca-4fd8ea69e018)
+
+
+
